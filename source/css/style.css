@@ -537,7 +537,7 @@ a {
 }
 .nav-bg-fff .nav-list > .list > .item > .link,
 .nav-bg-fff .nav-list > .list > .item > .void-link {
-  color: var(--header-link-color) !important;
+ /* color: var(--header-link-color) !important; *lxx/
 }
 @media screen and (min-width: 800px) {
   .nav-wrapper.-sticky.-bottom > .nav > .nav-list > .list.-left {
